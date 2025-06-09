@@ -37,4 +37,4 @@ El proyecto simula el sistema de gestión de una aseguradora que realiza las sig
 - Paradigma: Programación Orientada a Objetos (POO)
 
 ## 🧪 Tests
-- El archivo Main.java incluye varios casos de prueba para verificar la funcionalidad del sistema
+- El archivo Main.java incluye varios casos de prueba para verificar la funcionalidad del sistema. Solo es necesario ejecutarlo desde un IDE como IntelliJ o Eclipse para ver cómo funciona el programa, sin necesidad de ingresar datos manualmente.
